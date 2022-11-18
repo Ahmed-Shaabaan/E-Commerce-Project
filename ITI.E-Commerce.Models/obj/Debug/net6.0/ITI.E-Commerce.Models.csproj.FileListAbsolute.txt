@@ -1,0 +1,14 @@
+C:\Users\AHMED SHABAN\source\repos\Final Project\ITI.E-Commerce.Models\ITI.E-Commerce.Models\bin\Debug\net6.0\ITI.E-Commerce.Models.deps.json
+C:\Users\AHMED SHABAN\source\repos\Final Project\ITI.E-Commerce.Models\ITI.E-Commerce.Models\bin\Debug\net6.0\ITI.E-Commerce.Models.runtimeconfig.json
+C:\Users\AHMED SHABAN\source\repos\Final Project\ITI.E-Commerce.Models\ITI.E-Commerce.Models\bin\Debug\net6.0\ITI.E-Commerce.Models.dll
+C:\Users\AHMED SHABAN\source\repos\Final Project\ITI.E-Commerce.Models\ITI.E-Commerce.Models\bin\Debug\net6.0\ITI.E-Commerce.Models.pdb
+C:\Users\AHMED SHABAN\source\repos\Final Project\ITI.E-Commerce.Models\ITI.E-Commerce.Models\obj\Debug\net6.0\ITI.E-Commerce.Models.csproj.AssemblyReference.cache
+C:\Users\AHMED SHABAN\source\repos\Final Project\ITI.E-Commerce.Models\ITI.E-Commerce.Models\obj\Debug\net6.0\ITI.E-Commerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMED SHABAN\source\repos\Final Project\ITI.E-Commerce.Models\ITI.E-Commerce.Models\obj\Debug\net6.0\ITI.E-Commerce.Models.AssemblyInfoInputs.cache
+C:\Users\AHMED SHABAN\source\repos\Final Project\ITI.E-Commerce.Models\ITI.E-Commerce.Models\obj\Debug\net6.0\ITI.E-Commerce.Models.AssemblyInfo.cs
+C:\Users\AHMED SHABAN\source\repos\Final Project\ITI.E-Commerce.Models\ITI.E-Commerce.Models\obj\Debug\net6.0\ITI.E-Commerce.Models.csproj.CoreCompileInputs.cache
+C:\Users\AHMED SHABAN\source\repos\Final Project\ITI.E-Commerce.Models\ITI.E-Commerce.Models\obj\Debug\net6.0\ITI.E-Commerce.Models.dll
+C:\Users\AHMED SHABAN\source\repos\Final Project\ITI.E-Commerce.Models\ITI.E-Commerce.Models\obj\Debug\net6.0\refint\ITI.E-Commerce.Models.dll
+C:\Users\AHMED SHABAN\source\repos\Final Project\ITI.E-Commerce.Models\ITI.E-Commerce.Models\obj\Debug\net6.0\ITI.E-Commerce.Models.pdb
+C:\Users\AHMED SHABAN\source\repos\Final Project\ITI.E-Commerce.Models\ITI.E-Commerce.Models\obj\Debug\net6.0\ITI.E-Commerce.Models.genruntimeconfig.cache
+C:\Users\AHMED SHABAN\source\repos\Final Project\ITI.E-Commerce.Models\ITI.E-Commerce.Models\obj\Debug\net6.0\ref\ITI.E-Commerce.Models.dll
